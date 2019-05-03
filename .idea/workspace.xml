@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4105b21e-aa2e-4484-bf64-f139ffc47140" name="Default Changelist" comment="" />
+    <list id="2ad72c55-00af-4f54-a1c2-2be31775e758" name="Revert &quot;Initial commit&quot;" comment="Revert &quot;Initial commit&quot;&#10;&#10;This reverts commit de6a692a">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/grebenshikoff.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/bcrypt_elixir.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/bcrypt_elixir.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/benchfella.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/benchfella.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/connection.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/connection.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/cowboy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/cowboy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/cowlib.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/cowlib.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/db_connection.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/db_connection.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/decimal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/decimal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/dialyze.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/dialyze.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/earmark.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/earmark.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/ecto.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/ecto.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/ex_doc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/ex_doc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/exjsx.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/exjsx.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/file_system.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/file_system.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/gettext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/gettext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/inch_ex.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/inch_ex.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/jazz.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/jazz.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/jiffy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/jiffy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/json.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/json.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/mariaex.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/mariaex.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/mime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/mime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/phoenix.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/phoenix.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/phoenix_ecto.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/phoenix_ecto.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/phoenix_guides.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/phoenix_guides.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/phoenix_html.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/phoenix_html.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/phoenix_live_reload.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/phoenix_live_reload.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/phoenix_pubsub.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/phoenix_pubsub.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/plug.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/plug.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/plug_cowboy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/plug_cowboy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/plug_crypto.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/plug_crypto.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/poison.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/poison.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/poolboy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/poolboy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/postgrex.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/postgrex.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/ranch.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/ranch.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbroker.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/sbroker.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/telemetry.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/telemetry.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/websocket_client.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/websocket_client.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/brunch-config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/phoenix.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/socket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/static/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/static/images/phoenix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/static/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/config.exs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/dev.exs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/prod.exs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/test.exs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/grebenshikoff.ex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/grebenshikoff/admin/admin.ex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/grebenshikoff/admin/user.ex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/grebenshikoff/application.ex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/grebenshikoff/repo.ex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/grebenshikoff_web.ex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/grebenshikoff_web/channels/user_socket.ex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/grebenshikoff_web/controllers/page_controller.ex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/grebenshikoff_web/controllers/user_controller.ex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/grebenshikoff_web/endpoint.ex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/grebenshikoff_web/gettext.ex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/grebenshikoff_web/router.ex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/grebenshikoff_web/templates/layout/app.html.eex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/grebenshikoff_web/templates/page/index.html.eex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/grebenshikoff_web/templates/user/edit.html.eex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/grebenshikoff_web/templates/user/form.html.eex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/grebenshikoff_web/templates/user/index.html.eex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/grebenshikoff_web/templates/user/new.html.eex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/grebenshikoff_web/templates/user/show.html.eex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/grebenshikoff_web/views/error_helpers.ex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/grebenshikoff_web/views/error_view.ex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/grebenshikoff_web/views/layout_view.ex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/grebenshikoff_web/views/page_view.ex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/grebenshikoff_web/views/user_view.ex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix.exs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/priv/gettext/en/LC_MESSAGES/errors.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/priv/gettext/errors.pot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/priv/repo/migrations/20190503105933_create_users.exs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/priv/repo/seeds.exs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectFilesBackup/.idea/grebenshikoff.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/grebenshikoff/admin/admin_test.exs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/grebenshikoff_web/controllers/page_controller_test.exs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/grebenshikoff_web/controllers/user_controller_test.exs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/grebenshikoff_web/views/error_view_test.exs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/grebenshikoff_web/views/layout_view_test.exs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/grebenshikoff_web/views/page_view_test.exs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/support/channel_case.ex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/support/conn_case.ex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/support/data_case.ex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_helper.exs" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/_build/dev/lib/connection/" />
+    <ignored path="$PROJECT_DIR$/_build/dev/lib/cowboy/" />
+    <ignored path="$PROJECT_DIR$/_build/dev/lib/cowlib/" />
+    <ignored path="$PROJECT_DIR$/_build/dev/lib/db_connection/" />
+    <ignored path="$PROJECT_DIR$/_build/dev/lib/decimal/" />
+    <ignored path="$PROJECT_DIR$/_build/dev/lib/ecto/" />
+    <ignored path="$PROJECT_DIR$/_build/dev/lib/file_system/" />
+    <ignored path="$PROJECT_DIR$/_build/dev/lib/gettext/" />
+    <ignored path="$PROJECT_DIR$/_build/dev/lib/mime/" />
+    <ignored path="$PROJECT_DIR$/_build/dev/lib/phoenix/" />
+    <ignored path="$PROJECT_DIR$/_build/dev/lib/phoenix_ecto/" />
+    <ignored path="$PROJECT_DIR$/_build/dev/lib/phoenix_html/" />
+    <ignored path="$PROJECT_DIR$/_build/dev/lib/phoenix_live_reload/" />
+    <ignored path="$PROJECT_DIR$/_build/dev/lib/phoenix_pubsub/" />
+    <ignored path="$PROJECT_DIR$/_build/dev/lib/plug/" />
+    <ignored path="$PROJECT_DIR$/_build/dev/lib/plug_crypto/" />
+    <ignored path="$PROJECT_DIR$/_build/dev/lib/poison/" />
+    <ignored path="$PROJECT_DIR$/_build/dev/lib/poolboy/" />
+    <ignored path="$PROJECT_DIR$/_build/dev/lib/postgrex/" />
+    <ignored path="$PROJECT_DIR$/_build/dev/lib/ranch/" />
+    <ignored path="$PROJECT_DIR$/assets/node_modules/phoenix/" />
+    <ignored path="$PROJECT_DIR$/assets/node_modules/phoenix_html/" />
+    <ignored path="$PROJECT_DIR$/cover/" />
+    <ignored path="$PROJECT_DIR$/deps/" />
+    <ignored path="$PROJECT_DIR$/doc/" />
+    <ignored path="$PROJECT_DIR$/logs/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/config/dev.exs" />
+        <option value="$PROJECT_DIR$/mix.exs" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1348" />
+    <option name="height" value="690" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="phx.server" type="MixRunConfigurationType" factoryName="Elixir Mix">
+      <mix>
+        <argument>phx.server</argument>
+      </mix>
+      <module-filters inherit-application-module-filters="true" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4105b21e-aa2e-4484-bf64-f139ffc47140" name="Default Changelist" comment="" />
+      <created>1556880739099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556880739099</updated>
+      <workItem from="1556880743806" duration="709000" />
+      <workItem from="1556899335462" duration="112000" />
+      <workItem from="1556899494842" duration="345000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1166000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3298969" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/config/dev.exs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="54" column="19" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mix.exs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="49" column="16" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
